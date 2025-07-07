@@ -1,7 +1,7 @@
 Berikut adalah contoh isi untuk file `README.md` sesuai permintaan Anda:
 
 
-# Sycronus Chat App with Group Chats
+# Sycronus Chat App
 
 ![Screenshot](https://raw.githubusercontent.com/Fahminurs/Syncronus-Chat-Realtime/refs/heads/main/Screenshot%202025-07-07%20215820.png)
 
