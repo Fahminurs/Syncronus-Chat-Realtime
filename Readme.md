@@ -1,4 +1,4 @@
-Berikut adalah contoh isi untuk file `README.md` sesuai permintaan Anda:
+
 
 
 # Sycronus Chat App
