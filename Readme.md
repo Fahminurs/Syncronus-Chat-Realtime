@@ -20,10 +20,6 @@ Ikuti langkah-langkah berikut untuk menginstal aplikasi ini:
 
 1. Clone repositori ini:
 
-   ```bash
- https://github.com/Fahminurs/Syncronus-Chat-Realtime.git
-   ```
-
 2. Masuk ke direktori proyek (client):
 
    ```bash
