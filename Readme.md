@@ -5,7 +5,7 @@ Berikut adalah contoh isi untuk file `README.md` sesuai permintaan Anda:
 
 ![Screenshot](https://raw.githubusercontent.com/Fahminurs/Syncronus-Chat-Realtime/refs/heads/main/Screenshot%202025-07-07%20215820.png)
 
-Selamat datang di **Sycronus Chat App**! Aplikasi chatting yang dirancang untuk memudahkan komunikasi antar pengguna dalam grup. Dengan tampilan yang intuitif dan fitur real-time, Anda dapat berinteraksi dengan teman-teman Anda dengan cepat dan efisien. Aplikasi ini memanfaatkan teknologi modern untuk memastikan pengalaman chatting yang lancar dan menyenangkan. Bergabunglah dalam berbagai grup dan nikmati percakapan yang dinamis!
+Selamat datang di **Syncronus Chat App**! Aplikasi chatting yang dirancang untuk memudahkan komunikasi antar pengguna dalam grup. Dengan tampilan yang intuitif dan fitur real-time, Anda dapat berinteraksi dengan teman-teman Anda dengan cepat dan efisien. Aplikasi ini memanfaatkan teknologi modern untuk memastikan pengalaman chatting yang lancar dan menyenangkan. Bergabunglah dalam berbagai grup dan nikmati percakapan yang dinamis!
 
 ## Teknologi yang Digunakan
 
