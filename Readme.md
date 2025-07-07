@@ -33,9 +33,9 @@ Ikuti langkah-langkah berikut untuk menginstal aplikasi ini:
    ```
 
 4. Jalankan pada Folder Client:
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
 5. Masuk ke direktori proyek (client):
 
@@ -50,12 +50,7 @@ npm run dev
    ```
 
 7. Jalankan pada Folder Server:
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
-
-Dengan mengikuti langkah-langkah di atas, Anda akan dapat menjalankan **Sycronus Chat App** di lingkungan lokal Anda. Selamat mengobrol!
-```
-
-Gantilah bagian `username/repo.git` dengan URL repositori GitHub Anda yang sebenarnya. Anda dapat menyimpan isi ini dalam file `README.md` di repositori Anda.
